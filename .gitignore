@@ -1,0 +1,12 @@
+*.JPG
+*.png
+*.py
+/*.ipynb
+*checkpoint.ipynb
+*.pbtxt
+*.xls
+*.txt
+*.pkl
+/venv
+/Datasets
+EInNKtiWkAEb6cj.jfif
